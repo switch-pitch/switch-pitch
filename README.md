@@ -1,7 +1,10 @@
-[//]: # (<div align="center">)
 
-[//]: # (</div>)
 
+<div align="center">
+    <div style="width: 40%">
+        <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </div>
+  </div>
 
   <h1>Currently you're on a developer's page</h1>
   <p><b>${</b><i>this.profile</i><b>}</b> knowledge stack is on the table below </p>
